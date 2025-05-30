@@ -27,11 +27,7 @@
 ## 🛠️ Languages & Tools
 
 <!-- Update with your real skills -->
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=222)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+<!-- [Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff) -->
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=222)
 
@@ -51,7 +47,7 @@
 
 <!-- Update these links with your real data -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/matteo-menichetti-4907461b9/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=fff)](mailto:youremail@example.com)
+<!-- [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=fff)](mailto:youremail@example.com) -->
 
 ---
 
