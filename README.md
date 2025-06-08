@@ -50,7 +50,7 @@
 ## 📫 How to reach me
 
 <!-- Update these links with your real data -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/matteo-menichetti-4907461b9/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)]([https://www.linkedin.com/in/matteo-menichetti-4907461b9/])
 <!-- [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=fff)](mailto:youremail@example.com) -->
 
 ---
