@@ -46,7 +46,7 @@
 </p>
 
 ---
-
+<!--
 ## 📫 How to reach me
 
 <!-- Update these links with your real data -->
@@ -54,7 +54,7 @@
 <!-- [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=fff)](mailto:youremail@example.com) -->
 
 ---
-
+-->
 <!--
 **MatteoMenichetti/MatteoMenichetti** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
